@@ -5,4 +5,5 @@ const check = (array) => {
     array.forEach(ele => sum += ele)
     console.log(sum)
 }
-check([1, 2, 3, 4]) 
+check([1, 2, 3, 4, 5]) 
+console.log("hello world");
