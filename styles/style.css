@@ -1,0 +1,30 @@
+body {
+    font-family: 'Amatic SC', cursive;
+    color: black;
+    background-color: lightcyan;
+    background-image: url('https://newevolutiondesigns.com/images/freebies/nature-hd-background-15.jpg');
+    background-position: top;
+}
+
+img {
+    height: 50px;
+    opacity: 0.5;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+p {
+    font-size: 30px;
+}
+main {
+    text-align: right;
+}
+a {
+    color: rgb(255, 255, 255)
+}
+nav {
+    background-color: rgba(245, 240, 240, 0.1);
+    font-size: 20px;
+}
